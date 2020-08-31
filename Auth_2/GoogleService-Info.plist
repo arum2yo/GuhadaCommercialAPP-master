@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>72127693930-ge79s6ssd6jsofb5iok4nu2vac525t9r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.72127693930-ge79s6ssd6jsofb5iok4nu2vac525t9r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAeitCIElk5BGRuSzzRLjqfvJiav164IvA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>72127693930</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.techtown.Auth-2</string>
+	<key>PROJECT_ID</key>
+	<string>ohiohoo-62880</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ohiohoo-62880.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:72127693930:ios:5fc77e581218afb04ab613</string>
+	<key>DATABASE_URL</key>
+	<string>https://ohiohoo-62880.firebaseio.com</string>
+</dict>
+</plist>
